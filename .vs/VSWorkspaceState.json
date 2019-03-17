@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ANN"
+    "\\RNN",
+    "\\RNN\\Bidirectional RNN",
+    "\\RNN\\RNN"
   ],
-  "SelectedNode": "\\ANN\\confusion_matrix.csv",
+  "SelectedNode": "\\RNN\\RNN\\RNN.py",
   "PreviewInSolutionExplorer": false
 }
